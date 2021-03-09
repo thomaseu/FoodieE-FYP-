@@ -1,0 +1,3 @@
+include ':foodieew'
+include ':app'
+rootProject.name = "FoodieE"
